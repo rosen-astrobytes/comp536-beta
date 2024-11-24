@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "COMP 536: Computational Modeling for Scientists"
+title                    : "COMP 536 / Computational Modeling for Scientists"
 title_separator          : "-"
 name                     : &name "Anna Rosen"
 description              : &description "Course website for SDSU's COMP 536 (Spring 2025)"
